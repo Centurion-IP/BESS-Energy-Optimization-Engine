@@ -40,4 +40,4 @@
 ## 5. Commercial Inquiries & M&A Screening
 For technical due diligence requests, extended simulation logs, or to review the full brief under a standard Non-Disclosure Agreement (NDA), please contact the asset management desk directly:
 
-📩 **Email:** centurion.ip@proton.me
+📩 **Email:** centurion.ip.asset@proton.me
